@@ -50,7 +50,7 @@
 
 ## Pet Journal
 **Organização**: [Pet Journal](https://github.com/PetJournal)  
-**Founder**: [Letícia Tavares](https://www.linkedin.com/in/leticiatrandrade/)    
+**Founder**: [Matheus de Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/)    
 **Descrição do projeto**: Produto para registro e acompanhamento de informações referentes aos nossos pets. 
 
 <hr/>
