@@ -23,7 +23,6 @@
 - [Descubra Ilhabela](#descubra-ilhabela)
 - [DeliveryAPP](#deliveryapp)
 - [MoradaApp](#moradaapp)
-- [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
 - [GoLembrar](#golembrar)
 - [Amigos dos Animais](#amigos-dos-animais)
 - [Docunder](#Docunder)
@@ -141,13 +140,6 @@ utilizado, proporcionando novas experiências ao usuário.
 **Descrição do projeto**: Nossa plataforma será um sistema integrado que visa simplificar a gestão e a comunicação em condomínios residenciais. Através de um site responsivo e um aplicativo móvel intuitivo, oferecemos uma solução abrangente que atende às necessidades dos moradores, síndicos, administradores na vida condominial. 
 
 <hr/>
-
-## Trilha Desenvolvimento XP
-**Organização**: [Trilha Desenvolvimento XP](https://github.com/TrilhaDesenvolvimento-XP)  
-**Founder**: [Gabriela Queiroz](https://www.linkedin.com/in/gabiqassis/)  
-**Descrição do projeto**: Uma plataforma que oferece oportunidades desde iniciante ao avançado na aréa de tecnologia, disponibilizando projetos reais de varios niveis e prazos definidos com acesso ao um time de desenvolvimento, recrutamento para o mesmo e orientação de mentores da plataforma. 
-
-<hr/> 
 
 ## GoLembrar
 **Organização**: [GoLembrar](https://github.com/GoLembrar)  
