@@ -26,7 +26,7 @@
 - [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
 - [GoLembrar](#golembrar)
 - [Amigos dos Animais](#amigos-dos-animais)
-- [HubScribe](#hubscribe)
+- [Docunder](#Docunder)
 - [Gym-progress](#gym-progress)
 - [QuickServices](#quickservices)
 - [Hello-Pets](#hello-pets)
@@ -163,8 +163,8 @@ utilizado, proporcionando novas experiências ao usuário.
 
 <hr/> 
 
-## HubScribe
-**Organização**: [HubScribe](https://github.com/Organizacao-HubScribe)  
+## Docunder
+**Organização**: [Docunder](https://github.com/Organizacao-Docunder)  
 **Founder**: [João Moraes](https://www.linkedin.com/in/joaomoraes73/)  
 **Descrição do projeto**: Uma plataforma Open Source que oferece um ambiente colaborativo para documentação técnica e gerenciamento de projetos. Com recursos de edição colaborativa, permite a criação de páginas wiki, busca de artigos e suporte a markdown. Acessível e flexível para equipes que buscam uma solução de colaboração eficaz de código aberto.
 
