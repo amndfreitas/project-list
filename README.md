@@ -187,4 +187,4 @@ utilizado, proporcionando novas experiências ao usuário.
 ## Diaristando
 **Organização**: [Diaristando](https://github.com/diaristando) <br>
 **Founder**: [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/) <br>       
-**Descrição**: O GameGuard é uma inovadora plataforma web destinada a coletar e relatar condutas de jogadores em diversos jogos online, começando pelo popular League of Legends. Nosso objetivo é promover um ambiente de jogo mais saudável e justo, incentivando a comunidade a colaborar na identificação de comportamentos negativos e antiéticos.
+**Descrição**: Nosso projeto visa simplificar e otimizar o processo de contratação de serviços de diaristas, proporcionando uma plataforma mobile inovadora que conecta de forma eficiente clientes finais a prestadoras de serviços de limpeza. 
