@@ -20,7 +20,6 @@
 - [Care4You](#care4you)
 - [Bora Rachar](#bora-rachar)
 - [Tem Vaga Mestre?](#tem-vaga-mestre)
-- [Descubra Ilhabela](#descubra-ilhabela)
 - [DeliveryAPP](#deliveryapp)
 - [MoradaApp](#moradaapp)
 - [GoLembrar](#golembrar)
@@ -116,14 +115,6 @@
 **Descrição do projeto**: A plataforma Tem Vaga Mestre? conecta jogadores e mestres de RPG, oferecendo suporte a organização de mesas online e presenciais, fichas de personagens e uma agenda. 
 
 <hr/>
-
-## Descubra Ilhabela
-
-**Organização**: [DescubraIlhabela](https://github.com/orgs/Descubra-Ilhabela)      
-**Founder**: [Paulo Sergio](https://www.linkedin.com/in/paulo-sergio-morais/)       
-**Descrição do projeto**: O nosso projeto web tem como objetivo ser um guia turístico completo da cidade de Ilhabela.
-
-<hr/> 
 
 ## DeliveryAPP
 **Organização**: [DeliveryAPP](https://github.com/DeliveryAPP-Project)  
