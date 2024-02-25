@@ -24,12 +24,12 @@
 - [MoradaApp](#moradaapp)
 - [GoLembrar](#golembrar)
 - [Amigos dos Animais](#amigos-dos-animais)
-- [Docunder](#Docunder)
+- [Docunder](#docunder)
 - [Gym-progress](#gym-progress)
 - [QuickServices](#quickservices)
 - [Hello-Pets](#hello-pets)
-- [GameGuard](#GameGuard)
-- [Diaristando](#Diaristando)
+- [GameGuard](#gameguard)
+- [Diaristando](#diaristando)
 
 <hr/>
 
@@ -158,6 +158,7 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**: [Gym-progress](https://github.com/Gym-progress) <br>
 **Founder**: [Hugo Lemos](https://www.linkedin.com/in/hugo-lemos-da-silva/) <br>
 **Descrição do projeto**: Gym Progress será um aplicativo abrangente e intuitivo projetado para auxiliar os usuários no acompanhamento detalhado de seu progresso na academia. Com foco na praticidade e eficiência, o aplicativo permitirá a realização de anotações detalhadas, incluindo registros de carga, gráficos de desempenho e acompanhamento do tempo de treino.
+
 <hr/> 
 
 ## QuickServices
@@ -165,15 +166,21 @@ utilizado, proporcionando novas experiências ao usuário.
 **Founder**: [Carlos Daniel](https://www.linkedin.com/in/carlos-daniel-silva/) <br>
 **Descrição do projeto**: O QuickServices é uma aplicação mobile para conectar prestadores de serviços a clientes/pessoas que tem tarefas a ser feitas. O que o diferencia de outros sites/aplicativos é que são serviços simples que geralmente não são encontrados em grandes plataformas.
 
+<hr/> 
+
 ## hello-pets
 **Organização**: [hello-pets](https://github.com/Hello-Pets) <br>
 **Founder**: [Kelvim](https://www.linkedin.com/in/kelvimkauam/) <br>
 **Descrição**: O aplicativo Hello Pets é uma plataforma para que tutores de pets possam se conectar, compartilhar informações e participar de eventos e encontros para promover a interação de seus animais de estimação na comunidade.
 
+<hr/> 
+
 ## GameGuard
 **Organização**: [GameGuard](https://github.com/zGameGuard) <br>
 **Founder**: [Italo Araújo](https://www.linkedin.com/in/italoaraujodev) <br>
 **Descrição**: O GameGuard é uma inovadora plataforma web destinada a coletar e relatar condutas de jogadores em diversos jogos online, começando pelo popular League of Legends. Nosso objetivo é promover um ambiente de jogo mais saudável e justo, incentivando a comunidade a colaborar na identificação de comportamentos negativos e antiéticos.
+
+<hr/> 
 
 ## Diaristando
 **Organização**: [Diaristando](https://github.com/diaristando) <br>
